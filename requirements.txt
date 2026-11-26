@@ -1,0 +1,7 @@
+streamlit>=1.49,<2
+Pillow>=11,<13
+requests>=2.32,<3
+httpx>=0.28,<1
+python-dotenv>=1.0,<2
+google-genai>=1.0,<2
+huggingface_hub>=0.30,<2
